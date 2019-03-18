@@ -1,2 +1,4 @@
-./*/*
-!./*/*.py
+mownit_lab_1/**
+!mownit_lab_1/**/*.py
+mownit_lab_2/**
+!mownit_lab_2/**/*.py
