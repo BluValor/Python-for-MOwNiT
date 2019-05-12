@@ -1,4 +1,0 @@
-# linear equations solving
-# Gauss-Jordan method
-# LU factorization
-# analyseing electrical circuits using Kirchoff's circuit laws, linear equations and matrix operations
