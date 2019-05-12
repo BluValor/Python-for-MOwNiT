@@ -1,4 +1,6 @@
-*
-!*/
-!*.py
-!description.txt
+mownit_lab_1/**
+!mownit_lab_1/**/*.py
+!mownit_lab_1/**/*.txt
+mownit_lab_2/**
+!mownit_lab_2/**/*.py
+!mownit_lab_2/**/*.txt
