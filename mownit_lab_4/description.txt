@@ -1,0 +1,4 @@
+# simulated annealing
+# ex1 - Travelling Salesman Problem
+# ex2 - binary picture with defined preffered neighbourhood
+# ex3 - sudoku solving
