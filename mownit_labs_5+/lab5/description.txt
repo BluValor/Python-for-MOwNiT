@@ -1,0 +1,3 @@
+# SVD - Singluar Value DEcomposition
+# ex1 - transforming sphere to ellipse
+# ex2 - image conversion
