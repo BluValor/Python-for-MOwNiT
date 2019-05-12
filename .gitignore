@@ -1,5 +1,10 @@
+**/__pycache__
+**/*.png
+**/*.jpg
+**/*.csv
 mownit_lab_1/venv
 mownit_lab_2/venv
 mownit_lab_2/graphs
 mownit_lab_2/.idea
-*/__pycache__
+mownit_lab_3/venv
+mownit_lab_3/.idea
