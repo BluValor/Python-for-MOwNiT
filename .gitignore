@@ -2,9 +2,6 @@
 **/*.png
 **/*.jpg
 **/*.csv
-mownit_lab_1/venv
-mownit_lab_2/venv
-mownit_lab_2/graphs
-mownit_lab_2/.idea
-mownit_lab_3/venv
-mownit_lab_3/.idea
+**/venv
+**/graphs
+**/.idea
