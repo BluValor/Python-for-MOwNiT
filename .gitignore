@@ -1,6 +1,5 @@
-mownit_lab_1/**
-!mownit_lab_1/*.py
-!mownit_lab_1/description.txt
-mownit_lab_2/**
-!mownit_lab_2/*.py
-!mownit_lab_2/description.txt
+mownit_lab_1/venv
+mownit_lab_2/venv
+mownit_lab_2/graphs
+mownit_lab_1/.idea
+
