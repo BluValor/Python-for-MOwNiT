@@ -1,5 +1,0 @@
-# real numbers precision issues
-# ex1 - summing single precision numbers
-# ex2 - summing single precision numbers using Kahan algorithm
-# ex3 - partial sums (Riemann zeta, Dirichlet eta)
-# ex4 - rounding errors, logistic mapping (bifurcation)
