@@ -1,7 +1,13 @@
 **/__pycache__
-**/*.png
-**/*.jpg
-**/*.csv
 **/venv
 **/graphs
 **/.idea
+
+**/*.png
+**/*.jpg
+**/*.csv
+**/*.gif
+**/*.tar.gz
+
+mownit_labs_5+/lab9
+mownit_labs_5+/lab10
