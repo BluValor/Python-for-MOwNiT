@@ -7,7 +7,12 @@
 **/*.jpg
 **/*.csv
 **/*.gif
+**/*.odt
+**/*.pdf
 **/*.tar.gz
 
-mownit_labs_5+/lab9
+!**/_page.png
+!**/lab9/*.png
+!**/lab9/*.jpg
+
 mownit_labs_5+/lab10

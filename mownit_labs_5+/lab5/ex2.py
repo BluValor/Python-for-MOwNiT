@@ -37,8 +37,7 @@ A_compressed = U @ S @ VH
 
 print(A_compressed)
 
-im = Image.fromarray(np.uint8(A_compressed))
-Image. show(im)
+im = Image.fromarray(np.uint8(A_compressed)).show()
 
 # jakość obrazu początkowo ulega tylko niewielkiemu pogorszeniu. Dopiero ok 400 piksela zmiany zaczynają być dobrze
 # widoczne, a od 450 / 470 staję się nieczytelny
